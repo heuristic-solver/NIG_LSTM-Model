@@ -27,16 +27,7 @@ Predicting stock prices is challenging due to market volatility and the influenc
 
 </div>
 
-  Simulation Models:
-      NIG: Models price dynamics with non-Gaussian features.
-      GBM: Simulates paths of stock prices based on historical data.
-  Deep Learning Prediction:
-      LSTM: Captures long-term dependencies in sequential stock data.
-  Evaluation Metrics:
-      Mean Absolute Percentage Error (MAPE)
-      Mean Squared Error (MSE)
-  Visualization:
-      Generate comparative plots for simulated and actual stock price paths.
+This project features advanced simulation models such as the Normal Inverse Gaussian (NIG), which captures price dynamics with non-Gaussian features, and the Geometric Brownian Motion (GBM), which simulates stock price paths based on historical data. It also incorporates deep learning predictions using LSTM, which excels at capturing long-term dependencies in sequential stock data. Evaluation metrics like Mean Absolute Percentage Error (MAPE) and Mean Squared Error (MSE) are used to assess model performance. Additionally, the project generates comparative plots to visualize the alignment of simulated and actual stock price paths.
 
 <div align="center">
 
